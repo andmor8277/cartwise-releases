@@ -1,0 +1,10 @@
+{
+  "version": "1.0.1",
+  "versionCode": 4,
+  "tagName": "v1.0.1",
+  "releaseName": "CartWise v1.0.1",
+  "publishedAt": "2026-10-23T10:03:39.408Z",
+  "apkDownloadUrl": "https://github.com/andmor8277/cartwise-releases/releases/latest/download/CartWise.apk",
+  "releasePageUrl": "https://github.com/andmor8277/cartwise-releases/releases/latest",
+  "releaseNotes": "• Sistema di aggiornamento automatico in-app con popup GitHub Releases\n• Correzione calcolo prezzi Spesa Mista e formati punto vendita\n• Miglioramenti di sicurezza, performance e stabilità"
+}
