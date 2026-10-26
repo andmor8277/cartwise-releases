@@ -1,10 +1,10 @@
 {
-  "version": "1.0.3",
-  "versionCode": 6,
-  "tagName": "v1.0.3",
-  "releaseName": "CartWise v1.0.3",
-  "publishedAt": "2026-10-23T10:18:32.094Z",
+  "version": "1.0.4",
+  "versionCode": 7,
+  "tagName": "v1.0.4",
+  "releaseName": "CartWise v1.0.4",
+  "publishedAt": "2026-10-26T08:22:30.338Z",
   "apkDownloadUrl": "https://github.com/andmor8277/cartwise-releases/releases/latest/download/CartWise.apk",
   "releasePageUrl": "https://github.com/andmor8277/cartwise-releases/releases/latest",
-  "releaseNotes": "• Badge versione (v1.0.3) sempre visibile nella barra superiore\n• Avviso di conferma ad aggiornamento completato\n• Logo Carrello 3D integrato nell'intestazione"
+  "releaseNotes": "• Motore di ricerca prezzi reali in rete: volantini live PromoQui, cataloghi online e scontrini reali GDO\n• Algoritmi intelligenti di matching, normalizzazione formati/multipack e filtro statistico outlier\n• Badge Prezzo Reale Web e sincronizzazione automatica in background del carrello"
 }
